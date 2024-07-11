@@ -5,5 +5,5 @@ Description: This is a modern and elegant One-Page HTML Portfolio website. The W
 
 Version: 1
 Author: RK
-Author URI: 
+Author URI: https://r-kportfolio.vercel.app/
 Keywords: HTML, CSS, Bootstrap, Responsive, Javascript, jQuery, Parallax, Portfolio, CV, Resume
