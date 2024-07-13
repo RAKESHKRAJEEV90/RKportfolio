@@ -89,13 +89,6 @@ html, body {
   display: block;
 }
 
-/* Media query for smaller screens */
-@media (max-width: 600px) {
-  .round-image {
-      width: 75px; /* Adjusted size for smaller screens */
-      height: 75px; /* Adjusted size for smaller screens */
-  }
-}
 
 
 /* 
